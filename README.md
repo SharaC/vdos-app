@@ -16,10 +16,10 @@ Requisitos para desplegar en ambientes locales:
 5.  Para ejecutar el servidor Nodejs con la app corriendo, debe ejecutar el comando: `npm run start`
 
 **NOTAS**:  
-    **1.** Puede probar los endpoints expuestos a través de peticiones por postman, ya que el backend está diseñado como una API/Rest que no depende directamente del front que lo consume.
-    **2.** El Backend consumido desde el front expuesto en githubpages, se desplegó con los servicios gratuitos de Heroku y MongoDB Atlas.
+  **-** Puede probar los endpoints expuestos a través de peticiones por postman, ya que el backend está diseñado como una API/Rest que no depende directamente del front que lo consume.
+  **-** El Backend consumido desde el front expuesto en githubpages, se desplegó con los servicios gratuitos de Heroku y MongoDB Atlas.
     (https://vdos-app-bootcamp.herokuapp.com)
-   **3.** La base de datos publicada se pobló con varios datos iniciales, por lo que cualquier endpoint puede ser probado sin problema.
+ **-** La base de datos publicada se pobló con varios datos iniciales, por lo que cualquier endpoint puede ser probado sin problema.
 
 
 
